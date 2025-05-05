@@ -45,7 +45,7 @@ Navigation is enabled via **buttons**, providing a smooth multi-page report expe
 > The data used is either mock or publicly available.  
 > No sensitive or proprietary information is included.
 
-## 📌: License
+## 📌 License
 
 This project is licensed under the [MIT License](https://github.com/mirajsankdecha/Eternal-Dashboard-Analytics?tab=MIT-1-ov-file#readme).
 
