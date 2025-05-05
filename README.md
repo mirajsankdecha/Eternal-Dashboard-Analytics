@@ -40,9 +40,17 @@ Navigation is enabled via **buttons**, providing a smooth multi-page report expe
 
 ---
 
-## 📌 License
+> ⚠️ **Disclaimer**  
+> This project is for academic and portfolio purposes only.  
+> The data used is either mock or publicly available.  
+> No sensitive or proprietary information is included.
 
-This project is for academic and portfolio purposes only. Data used is either mock or publicly available. No sensitive or proprietary information is included.
+## 📌page_facing_up: License
+
+This project is licensed under the [MIT License](https://github.com/mirajsankdecha/Eternal-Dashboard-Analytics?tab=MIT-1-ov-file#readme).
+
+By contributing to this repository, you agree that your contributions will be licensed under the Massachusetts Institute of Technology (MIT) license.
+
 
 ---
 
