@@ -16,19 +16,17 @@ Navigation is enabled via **buttons**, providing a smooth multi-page report expe
 
 ## 🖼️ Dashboard Snapshots
 
-> *(Replace the URLs below with actual image links)*
-
 ### 📊 Main Dashboard (Eternal Overview)  
-![Main Dashboard](https://your-image-link.com/main_dashboard.png)
+![Main Dashboard](https://github.com/mirajsankdecha/Eternal-Dashboard-Analytics/blob/main/Elements/Eternal-View.png)
 
 ### 🍽️ Zomato View  
-![Zomato Dashboard](https://your-image-link.com/zomato_dashboard.png)
+![Zomato Dashboard](https://github.com/mirajsankdecha/Eternal-Dashboard-Analytics/blob/main/Elements/Zomato-View.png)
 
 ### 🛒 Blinkit View  
-![Blinkit Dashboard](https://your-image-link.com/blinkit_dashboard.png)
+![Blinkit Dashboard](https://github.com/mirajsankdecha/Eternal-Dashboard-Analytics/blob/main/Elements/Blinkit-View.png)
 
 ### 🎭 District View  
-![District Dashboard](https://your-image-link.com/district_dashboard.png)
+![District Dashboard](https://github.com/mirajsankdecha/Eternal-Dashboard-Analytics/blob/main/Elements/District-View.png)
 
 ---
 
