@@ -40,10 +40,13 @@ Navigation is enabled via **buttons**, providing a smooth multi-page report expe
 
 ---
 
- ⚠️ **Disclaimer**  
+ ## ⚠️ Disclaimer
+ 
  This project is for academic and portfolio purposes only.  
  The data used is either mock or publicly available.  
  No sensitive or proprietary information is included.
+
+ ---
 
 ## 📌 License
 
